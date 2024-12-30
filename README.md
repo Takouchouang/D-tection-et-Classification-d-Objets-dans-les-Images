@@ -1,2 +1,8 @@
-# Detection-et-Classification-d-Objets-dans-les-Images
-Ce projet est une implémentation pratique d’un système de détection et classification d’objets basé sur l’apprentissage profond. Il utilise des frameworks avancés pour créer un pipeline performant, adapté à des scénarios comme la surveillance routière ou la gestion d’inventaire.
+Description courte :
+Ce projet utilise des techniques de machine learning pour détecter et classifier différents objets dans les images. À travers l’utilisation de frameworks modernes tels que YOLOv5 et PyTorch, l’objectif est de développer un modèle performant pour des cas d’utilisation réels.
+
+Description détaillée :
+Dans ce projet, un modèle de deep learning est entraîné pour :
+
+Détecter : Localiser des objets dans une image avec leurs coordonnées précises.
+Classifier : Identifier la classe de chaque objet détecté.

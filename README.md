@@ -5,6 +5,8 @@ Description détaillée :
 Dans ce projet, un modèle de deep learning est entraîné pour : 
 
 Détecter : Localiser des objets dans une image avec leurs coordonnées précises. 
+
+
 Classifier : Identifier la classe de chaque objet détecté.
 
 Objectifs du Projet

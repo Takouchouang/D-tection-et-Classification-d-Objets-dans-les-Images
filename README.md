@@ -3,5 +3,11 @@ Ce projet utilise des techniques de machine learning pour détecter et classifie
 
 Description détaillée :
 Dans ce projet, un modèle de deep learning est entraîné pour : 
+
 Détecter : Localiser des objets dans une image avec leurs coordonnées précises. 
 Classifier : Identifier la classe de chaque objet détecté.
+
+Objectifs du Projet
+Détecter des objets dans les images en utilisant YOLOv5.
+Classifier ces objets selon leurs catégories respectives.
+Optimiser les performances du modèle pour des environnements réels.

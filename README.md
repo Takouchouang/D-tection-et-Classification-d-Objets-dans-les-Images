@@ -1,18 +1,35 @@
-Description courte :
-Ce projet utilise des techniques de machine learning pour détecter et classifier différents objets dans les images. À travers l’utilisation de frameworks modernes tels que YOLOv5 et PyTorch, l’objectif est de développer un modèle performant pour des cas d’utilisation réels.
+# Projet de Détection d'Objets dans les Images avec YOLOv5 (Modèle Pré-entraîné)
 
-Description détaillée :
-Dans ce projet, un modèle de deep learning est entraîné pour : 
+## Description courte
+Ce projet utilise des techniques de machine learning pour détecter et classifier différents objets dans des images. À l'aide du modèle pré-entraîné **YOLOv5** et du framework **PyTorch**, l'objectif est de développer un modèle performant pour des applications réelles de détection d'objets.
 
-Détecter : Localiser des objets dans une image avec leurs coordonnées précises. 
+## Description détaillée
+Dans ce projet, un modèle de deep learning pré-entraîné est utilisé pour :
 
+- **Détection** : Localiser des objets dans une image et obtenir leurs coordonnées précises (boîtes de délimitation).
+- **Classification** : Identifier la classe de chaque objet détecté (par exemple, personne, voiture, animal).
 
-Classifier : Identifier la classe de chaque objet détecté.
+### Objectifs du projet
+- Utiliser le modèle pré-entraîné YOLOv5 pour détecter des objets dans des images.
+- Classifier les objets détectés selon leurs catégories respectives.
+- Optimiser les performances du modèle pour des environnements réels, avec une précision élevée et une exécution rapide.
 
-Objectifs du Projet
-Détecter des objets dans les images en utilisant YOLOv5.
-Classifier ces objets selon leurs catégories respectives.
-Optimiser les performances du modèle pour des environnements réels.
+## Prérequis
+- Python 3.6 ou supérieur
+- PyTorch
+- YOLOv5
+- OpenCV
+- Matplotlib
+
+## Installation
+
+### Cloner le dépôt
+Pour commencer, clonez ce projet sur votre machine locale :
+
+```bash
+git clone https://github.com/mon-utilisateur/detection-objets.git
+cd detection-objets
+
 
 <!-- ![Texte alternatif](/zidane.jpg) -->
 <img src="/zidane.jpg" alt="Logo" width="200"/>

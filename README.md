@@ -35,8 +35,8 @@ pip install -r requirements.txt
 
 ### Exemple d'image de detection
 
-<!-- ![Texte alternatif](/zidane.jpg) -->
-<img src="/zidane.jpg" alt="Logo" width="200"/>
+![Texte alternatif](/detection_Zidane.jpg) 
+<!-- <img src="/zidane.jpg" alt="Logo" width="200"/>
 <table>
   <tr>
     <td><img src="images/image1.jpg" alt="Image 1" width="150"/></td>
@@ -52,7 +52,7 @@ pip install -r requirements.txt
     <td><img src="images/image9.jpg" alt="Image 9" width="150"/></td>
     <td><img src="images/image10.jpg" alt="Image 10" width="150"/></td>
   </tr>
-</table>
+</table> -->
 
 ### Contribution
 Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer ce projet, veuillez ouvrir une pull request .

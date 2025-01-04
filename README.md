@@ -20,24 +20,19 @@ Optimiser les performances du modèle pour des environnements réels.
   <tr>
     <td><img src="images/image1.jpg" alt="Image 1" width="150"/></td>
     <td><img src="images/image2.jpg" alt="Image 2" width="150"/></td>
-  </tr>
-  <tr>
     <td><img src="images/image3.jpg" alt="Image 3" width="150"/></td>
     <td><img src="images/image4.jpg" alt="Image 4" width="150"/></td>
-  </tr>
-  <tr>
     <td><img src="images/image5.jpg" alt="Image 5" width="150"/></td>
-    <td><img src="images/image6.jpg" alt="Image 6" width="150"/></td>
   </tr>
   <tr>
+    <td><img src="images/image6.jpg" alt="Image 6" width="150"/></td>
     <td><img src="images/image7.jpg" alt="Image 7" width="150"/></td>
     <td><img src="images/image8.jpg" alt="Image 8" width="150"/></td>
-  </tr>
-  <tr>
     <td><img src="images/image9.jpg" alt="Image 9" width="150"/></td>
     <td><img src="images/image10.jpg" alt="Image 10" width="150"/></td>
   </tr>
 </table>
+
 
 
 

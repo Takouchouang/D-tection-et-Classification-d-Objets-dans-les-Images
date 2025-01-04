@@ -26,10 +26,14 @@ Dans ce projet, un modèle de deep learning pré-entraîné est utilisé pour :
 ### Cloner le dépôt
 Pour commencer, clonez ce projet sur votre machine locale :
 
-```bash
-git clone https://github.com/mon-utilisateur/detection-objets.git
+git clone https://github.com/Takouchouang/detection-objets.git
 cd detection-objets
 
+### Installer les dépendances
+pip install -r requirements.txt
+
+
+### Exemple d'image de detection
 
 <!-- ![Texte alternatif](/zidane.jpg) -->
 <img src="/zidane.jpg" alt="Logo" width="200"/>
@@ -50,6 +54,11 @@ cd detection-objets
   </tr>
 </table>
 
+### Contribution
+Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer ce projet, veuillez ouvrir une pull request .
 
+### Auteurs
+Takouchouang Fraisse Sacre
+Collaborateur : Dr.Vinh
 
 

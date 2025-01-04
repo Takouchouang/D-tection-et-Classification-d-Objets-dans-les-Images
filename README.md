@@ -14,7 +14,7 @@ Détecter des objets dans les images en utilisant YOLOv5.
 Classifier ces objets selon leurs catégories respectives.
 Optimiser les performances du modèle pour des environnements réels.
 
-![Texte alternatif](/zidane.jpg)
+<!-- ![Texte alternatif](/zidane.jpg) -->
 <img src="/zidane.jpg" alt="Logo" width="200"/>
 
 

@@ -58,7 +58,7 @@ pip install -r requirements.txt
 Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer ce projet, veuillez ouvrir une pull request .
 
 ### Auteurs
-Takouchouang Fraisse Sacre
-Collaborateur : Dr.Vinh
+- Takouchouang Fraisse Sacre
+- Collaborateur : Dr.Vinh
 
 

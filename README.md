@@ -59,6 +59,7 @@ Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer 
 
 ### Auteurs
 - Takouchouang Fraisse Sacre
-- Collaborateur : Dr.Vinh
+- Collaborateur : Dr.Ho Tuong Vinh : Enseignant-Chercheur en Informatique (Institut Francophone International, Université Nationale du Vietnam à Hanoi)
+[W] http://ifi.vnu.edu.vn
 
 

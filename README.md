@@ -58,7 +58,7 @@ pip install -r requirements.txt
 Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer ce projet, veuillez ouvrir une pull request .
 
 ### Auteurs
-- Takouchouang Fraisse Sacre
+- Takouchouang Fraisse Sacre : Eleve Ingenieur en Systeme Intelligent et Multimedia.
 - Collaborateur : Dr.Ho Tuong Vinh : Enseignant-Chercheur en Informatique (Institut Francophone International, Université Nationale du Vietnam à Hanoi)
 http://ifi.vnu.edu.vn
 

@@ -26,8 +26,8 @@ Dans ce projet, un modèle de deep learning pré-entraîné est utilisé pour :
 ### Cloner le dépôt
 Pour commencer, clonez ce projet sur votre machine locale :
 
-git clone https://github.com/Takouchouang/D-tection-et-Classification-d-Objets-dans-les-Images
-
+- git clone https://github.com/Takouchouang/D-tection-et-Classification-d-Objets-dans-les-Images
+- D-tection-et-Classification-d-Objets-dans-les-Images
 
 ### Installer les dépendances
 pip install -r requirements.txt

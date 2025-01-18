@@ -36,6 +36,7 @@ pip install -r requirements.txt
 ### Exemple d'image de detection
 
 ![Texte alternatif](/detection_Zidane.jpeg) 
+![Texte alternatif](/moto_personne.jpg) 
 <!-- <img src="/zidane.jpg" alt="Logo" width="200"/>
 
 <table>

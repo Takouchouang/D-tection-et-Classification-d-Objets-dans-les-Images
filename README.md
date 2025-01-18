@@ -37,6 +37,7 @@ pip install -r requirements.txt
 
 ![Texte alternatif](/detection_Zidane.jpeg) 
 <!-- <img src="/zidane.jpg" alt="Logo" width="200"/>
+
 <table>
   <tr>
     <td><img src="images/image1.jpg" alt="Image 1" width="150"/></td>
@@ -58,8 +59,8 @@ pip install -r requirements.txt
 Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer ce projet, veuillez ouvrir une pull request .
 
 ### Auteurs
-- Takouchouang Fraisse Sacre : Eleve Ingenieur en Systeme Intelligent et Multimedia.
-- Collaborateur : Dr.Ho Tuong Vinh : Enseignant-Chercheur en Informatique (Institut Francophone International, Université Nationale du Vietnam à Hanoi)
+- **Takouchouang Fraisse Sacre** : Eleve Ingenieur en Systeme Intelligent et Multimedia.
+- Collaborateur : **Dr.Ho Tuong Vinh** : Enseignant-Chercheur en Informatique (Institut Francophone International, Université Nationale du Vietnam à Hanoi)
 http://ifi.vnu.edu.vn
 
 

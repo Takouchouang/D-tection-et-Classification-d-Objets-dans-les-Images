@@ -10,7 +10,7 @@ Dans ce projet, un modèle de deep learning pré-entraîné est utilisé pour :
 - **Classification** : Identifier la classe de chaque objet détecté (par exemple, personne, voiture, animal).
 
 ### Objectifs du projet
-- Utiliser le modèle pré-entraîné YOLOv5 pour détecter des objets dans des images.
+- Utiliser le modèle pré-entraîné **YOLOv5** pour détecter des objets dans des images.
 - Classifier les objets détectés selon leurs catégories respectives.
 - Optimiser les performances du modèle pour des environnements réels, avec une précision élevée et une exécution rapide.
 

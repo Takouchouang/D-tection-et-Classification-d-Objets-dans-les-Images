@@ -6,7 +6,7 @@ Ce projet utilise des techniques de **machine learning**pour détecter et classi
 ## Description détaillée
 Dans ce projet, un modèle de deep learning pré-entraîné est utilisé pour :
 
-- **Détection** : Localiser des objets dans une image et obtenir leurs coordonnées précises (boîtes de délimitation).
+- **Détection** : Localiser des objets dans une image et obtenir leurs coordonnées précises (**boîtes de délimitation**).
 - **Classification** : Identifier la classe de chaque objet détecté (par exemple, **personne**, **voiture**, **animal**).
 
 ### Objectifs du projet

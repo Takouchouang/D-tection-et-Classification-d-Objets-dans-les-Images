@@ -1,7 +1,7 @@
 # Projet de Détection d'Objets dans les Images avec YOLOv5 (Modèle Pré-entraîné)
 
 ## Description courte
-Ce projet utilise des techniques de **machine learning**pour détecter et classifier différents objets dans des images. À l'aide du modèle pré-entraîné **YOLOv5** et du framework **PyTorch**, l'objectif est de développer un modèle performant pour des applications réelles de détection d'objets.
+Ce projet utilise des techniques de **machine learning**pour détecter et classifier différents objets dans des images. À l'aide du modèle pré-entraîné **YOLOv5** et du framework **PyTorch**, l'objectif est de développer un modèle performant pour des applications réelles de **détection d'objets**.
 
 ## Description détaillée
 Dans ce projet, un modèle de deep learning pré-entraîné est utilisé pour :

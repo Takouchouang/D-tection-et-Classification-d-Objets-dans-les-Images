@@ -16,9 +16,9 @@ Dans ce projet, un modèle de deep learning pré-entraîné est utilisé pour :
 
 ## Prérequis
 - Python 3.6 ou supérieur
-- PyTorch
-- YOLOv5
-- OpenCV
+- **PyTorch**
+- **YOLOv5**
+- **OpenCV**
 - Matplotlib
 
 ## Installation
